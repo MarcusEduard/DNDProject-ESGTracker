@@ -35,7 +35,7 @@
     width: 1.25rem;
     height: 1.25rem;
     margin-right: 0.75rem;
-    top: -1px;
+    top: 0; /* Adjust this value to center the icon */
     background-size: cover;
 }
 
@@ -115,5 +115,3 @@
     width: 300px;
     height: 150px;
 }
-
-

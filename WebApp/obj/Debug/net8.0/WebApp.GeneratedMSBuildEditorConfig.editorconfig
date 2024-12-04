@@ -38,40 +38,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFbnZpcm9ubWVudGFsS1BJLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/marcu/Downloads/Nilfisk/ESG/WebApp/Components/Pages/EnvironmentalManagement.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFbnZpcm9ubWVudGFsTWFuYWdlbWVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/marcu/Downloads/Nilfisk/ESG/WebApp/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marcu/Downloads/Nilfisk/ESG/WebApp/Components/Pages/GoverenceKPI.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xHb3ZlcmVuY2VLUEkucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/marcu/Downloads/Nilfisk/ESG/WebApp/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/marcu/Downloads/Nilfisk/ESG/WebApp/Components/Pages/MustBeLoggedInToView.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xNdXN0QmVMb2dnZWRJblRvVmlldy5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/marcu/Downloads/Nilfisk/ESG/WebApp/Components/Pages/MustBeTeacherToView.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xNdXN0QmVUZWFjaGVyVG9WaWV3LnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/marcu/Downloads/Nilfisk/ESG/WebApp/Components/Pages/PolicyExampleManual.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQb2xpY3lFeGFtcGxlTWFudWFsLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/marcu/Downloads/Nilfisk/ESG/WebApp/Components/Pages/PolicyExampleWithComponent.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQb2xpY3lFeGFtcGxlV2l0aENvbXBvbmVudC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/marcu/Downloads/Nilfisk/ESG/WebApp/Components/Pages/ShowCredentialsFromAuthState.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTaG93Q3JlZGVudGlhbHNGcm9tQXV0aFN0YXRlLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/marcu/Downloads/Nilfisk/ESG/WebApp/Components/Pages/ShowCredentialsFromContext.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTaG93Q3JlZGVudGlhbHNGcm9tQ29udGV4dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/marcu/Downloads/Nilfisk/ESG/WebApp/Components/Routes.razor]

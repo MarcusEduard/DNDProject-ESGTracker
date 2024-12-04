@@ -10,6 +10,7 @@ C:\Users\marcu\Downloads\Nilfisk\ESG\FileStorage\obj\Debug\net8.0\FileStorage.Ge
 C:\Users\marcu\Downloads\Nilfisk\ESG\FileStorage\obj\Debug\net8.0\FileStorage.AssemblyInfoInputs.cache
 C:\Users\marcu\Downloads\Nilfisk\ESG\FileStorage\obj\Debug\net8.0\FileStorage.AssemblyInfo.cs
 C:\Users\marcu\Downloads\Nilfisk\ESG\FileStorage\obj\Debug\net8.0\FileStorage.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Downloads\Nilfisk\ESG\FileStorage\obj\Debug\net8.0\FileStorage.sourcelink.json
 C:\Users\marcu\Downloads\Nilfisk\ESG\FileStorage\obj\Debug\net8.0\FileStor.B9846087.Up2Date
 C:\Users\marcu\Downloads\Nilfisk\ESG\FileStorage\obj\Debug\net8.0\FileStorage.dll
 C:\Users\marcu\Downloads\Nilfisk\ESG\FileStorage\obj\Debug\net8.0\refint\FileStorage.dll

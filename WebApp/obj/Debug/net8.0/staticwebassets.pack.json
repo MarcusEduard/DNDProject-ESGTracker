@@ -25,8 +25,24 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "C:\\Users\\marcu\\Downloads\\Nilfisk\\ESG\\WebApp\\wwwroot\\images\\Background1.jpg",
+      "PackagePath": "staticwebassets\\images\\Background1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marcu\\Downloads\\Nilfisk\\ESG\\WebApp\\wwwroot\\images\\Background2.jpg",
+      "PackagePath": "staticwebassets\\images\\Background2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marcu\\Downloads\\Nilfisk\\ESG\\WebApp\\wwwroot\\images\\Baggrund.webp",
+      "PackagePath": "staticwebassets\\images\\Baggrund.webp"
+    },
+    {
       "Id": "C:\\Users\\marcu\\Downloads\\Nilfisk\\ESG\\WebApp\\wwwroot\\images\\Logo_Nilfisk.jpg",
       "PackagePath": "staticwebassets\\images\\Logo_Nilfisk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marcu\\Downloads\\Nilfisk\\ESG\\WebApp\\wwwroot\\images\\NilfiskBaggrund.jpg",
+      "PackagePath": "staticwebassets\\images\\NilfiskBaggrund.jpg"
     },
     {
       "Id": "C:\\Users\\marcu\\Downloads\\Nilfisk\\ESG\\WebApp\\wwwroot\\images\\NilfiskFrontPage.webp",
